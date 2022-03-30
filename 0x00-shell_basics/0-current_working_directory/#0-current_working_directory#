@@ -1,0 +1,6 @@
+#!/bin/bash
+pwd
+C-x C-s
+0-current_working_directory
+press
+C-x C-c
