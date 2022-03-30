@@ -1,0 +1,18 @@
+#wd
+#!/bin/bash
+pwd
+C-x C-c
+C-x C-s
+0-current_working_directory
+press
+C-x C-c
+:zz
+:wq
+C-x C-s
+cd ..
+help
+ls -a
+ chmod u+x 0-current_working_directory
+ git config --global user. email "oluwatg@gmail.com"
+ emacs
+ 
