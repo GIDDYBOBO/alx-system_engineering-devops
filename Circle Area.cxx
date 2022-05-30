@@ -33,6 +33,7 @@ loop:	cout <<" reply '1' to input radius of the circle or rather reply '2' to in
 		cout << " error"<<endl;
 		goto loop;
 }
+cout << "Thank you y'all"<<endl;
 return 0;
 }
 		
